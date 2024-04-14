@@ -10,7 +10,7 @@ Este proyecto utiliza Docker Compose para gestionar los contenedores. Siga estos
 
 De ser necesario, colocar la ip desde el archivo docker-compose.yml en la variable DATABASE_URL
 
-## Paso 2: Este comando construirá las imágenes y ejecutará los contenedores según lo definido en el archivo docker-compose.yml.
+## Paso 3: Este comando construirá las imágenes y ejecutará los contenedores según lo definido en el archivo docker-compose.yml.
 
 `docker-compose up --d`
 
