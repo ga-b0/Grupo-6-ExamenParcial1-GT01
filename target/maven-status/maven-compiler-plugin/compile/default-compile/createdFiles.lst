@@ -1,4 +1,0 @@
-com\libcode\crud\crud\users\entities\User.class
-com\libcode\crud\crud\CrudApplication.class
-com\libcode\crud\crud\users\controllers\PageUserController.class
-com\libcode\crud\crud\users\repository\UserRepository.class
